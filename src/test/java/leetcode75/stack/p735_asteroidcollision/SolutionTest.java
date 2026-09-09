@@ -1,0 +1,17 @@
+package leetcode75.stack.p735_asteroidcollision;
+
+import org.junit.jupiter.api.Test;
+
+import static org.junit.jupiter.api.Assertions.assertArrayEquals;
+
+class SolutionTest {
+    private final Solution solution = new Solution();
+
+    @Test
+    void resolvesAsteroidCollisions() {
+        assertArrayEquals(new int[]{5, 10}, solution.asteroidCollision(new int[]{5, 10, -5}));
+        assertArrayEquals(new int[]{}, solution.asteroidCollision(new int[]{8, -8}));
+        assertArrayEquals(new int[]{10}, solution.asteroidCollision(new int[]{10, 2, -5}));
+        assertArrayEquals(new int[]{-2, -1, 1, 2}, solution.asteroidCollision(new int[]{-2, -1, 1, 2}));
+    }
+}
