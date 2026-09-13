@@ -50,7 +50,7 @@ To submit an implementation on LeetCode, copy the relevant class body. LeetCode 
 
 ### Array / String
 
-- [ ] 1768 - [Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately/)
+- [x] 1768 - [Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately/)
 - [ ] 1071 - [Greatest Common Divisor of Strings](https://leetcode.com/problems/greatest-common-divisor-of-strings/)
 - [ ] 1431 - [Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/)
 - [ ] 605 - [Can Place Flowers](https://leetcode.com/problems/can-place-flowers/)
