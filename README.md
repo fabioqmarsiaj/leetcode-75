@@ -52,7 +52,7 @@ To submit an implementation on LeetCode, copy the relevant class body. LeetCode 
 
 - [x] 1768 - [Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately/)
 - [x] 1071 - [Greatest Common Divisor of Strings](https://leetcode.com/problems/greatest-common-divisor-of-strings/)
-- [ ] 1431 - [Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/)
+- [x] 1431 - [Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/)
 - [ ] 605 - [Can Place Flowers](https://leetcode.com/problems/can-place-flowers/)
 - [ ] 345 - [Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/)
 - [ ] 151 - [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/)
